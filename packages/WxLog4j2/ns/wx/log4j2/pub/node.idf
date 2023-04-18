@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">CnByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBMT0dfRlVOQ1RJT04gPSAiV3hMb2c0ajIiOwpw
+cml2YXRlIHN0YXRpYyBDb25jdXJyZW50SGFzaE1hcDxTdHJpbmcsIExvZ2dlckNvbnRleHQ+IGxv
+Z2dlckNvbnRleHRzTWFwID0gbmV3IENvbmN1cnJlbnRIYXNoTWFwPFN0cmluZywgTG9nZ2VyQ29u
+dGV4dD4oKTsKcHJpdmF0ZSBzdGF0aWMgQ29uY3VycmVudEhhc2hNYXA8U3RyaW5nLCBMb2dnZXI+
+IGxvZ2dlck1hcCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDxTdHJpbmcsIExvZ2dlcj4oKTsKCnBy
+aXZhdGUgc3RhdGljIHZvaWQgZGVidWdMb2dFcnJvcihTdHJpbmcgbWVzc2FnZSkgewogICAgSm91
+cm5hbExvZ2dlci5sb2coNCwgIEpvdXJuYWxMb2dnZXIuRkFDX0ZMT1dfU1ZDLCBKb3VybmFsTG9n
+Z2VyLkVSUk9SLCBMT0dfRlVOQ1RJT04sIG1lc3NhZ2UpOwp9Cgpwcml2YXRlIHN0YXRpYyB2b2lk
+IGRlYnVnTG9nSW5mbyhTdHJpbmcgbWVzc2FnZSkgewogICAgSm91cm5hbExvZ2dlci5sb2coNCwg
+IEpvdXJuYWxMb2dnZXIuRkFDX0ZMT1dfU1ZDLCBKb3VybmFsTG9nZ2VyLklORk8sIExPR19GVU5D
+VElPTiwgbWVzc2FnZSk7Cn0KCnByaXZhdGUgc3RhdGljIHZvaWQgZGVidWdMb2dEZWJ1ZyhTdHJp
+bmcgbWVzc2FnZSkgewogICAgSm91cm5hbExvZ2dlci5sb2coNCwgIEpvdXJuYWxMb2dnZXIuRkFD
+X0ZMT1dfU1ZDLCBKb3VybmFsTG9nZ2VyLklORk8sIExPR19GVU5DVElPTiwgbWVzc2FnZSk7Cn0K
+CnByaXZhdGUgc3RhdGljIHZvaWQgbG9nSW1wbChTdHJpbmcgbWVzc2FnZSwgU3RyaW5nIGZ1bmN0
+aW9uLCBMZXZlbCBsZXZlbCkgewoJTG9nZ2VyIGxvZ2dlcjsKCWlmIChmdW5jdGlvbiA9PSBudWxs
+KSB7CgkJZnVuY3Rpb24gPSBMT0dfRlVOQ1RJT047Cgl9Cglsb2dnZXIgPSBsb2dnZXJNYXAuZ2V0
+KGZ1bmN0aW9uKTsKCWlmIChsb2dnZXIgIT0gbnVsbCkgewoJCWxvZ2dlci5sb2cobGV2ZWwsIG1l
+c3NhZ2UpOwoJfSBlbHNlIHsKCQlpZiAoZnVuY3Rpb24uZXF1YWxzKExPR19GVU5DVElPTikpIHsK
+CQkJZGVidWdMb2dFcnJvcigiTG9nZ2VyIGZvciAiICsgZnVuY3Rpb24gKyAiIG5vdCBpbml0aWFs
+aXplZCEiKTsKCQl9IGVsc2UgewoJCQlsb2dJbnRlcm5hbGx5KCJMb2dnZXIgZm9yICIgKyBmdW5j
+dGlvbiArICIgbm90IGluaXRpYWxpemVkISIsIExldmVsLkVSUk9SKTsKCQl9Cgl9Cn0KCgpwcml2
+YXRlIHN0YXRpYyB2b2lkIGxvZ0ludGVybmFsbHkoU3RyaW5nIG1lc3NhZ2UsIExldmVsIGxldmVs
+KSB7Cglsb2dJbXBsKG1lc3NhZ2UsICJXeExvZzRqMiIsIGxldmVsKTsKfQoKCnByaXZhdGUgc3Rh
+dGljIFN0cmluZyBnZXREaWZmKGxvbmcgc3RhcnQpIHsKCXJldHVybiBTdHJpbmcudmFsdWVPZihT
+eXN0ZW0ubmFub1RpbWUoKSAtIHN0YXJ0KSArICIsICI7Cn0KCgkKCQ==</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.util.JournalLogger</value>
+    <value>java.io.File</value>
+    <value>java.io.IOException</value>
+    <value>java.util.Collection</value>
+    <value>java.util.Date</value>
+    <value>java.util.Map</value>
+    <value>java.util.Map.Entry</value>
+    <value>java.util.Set</value>
+    <value>java.util.concurrent.ConcurrentHashMap</value>
+    <value>org.apache.logging.log4j.Level</value>
+    <value>org.apache.logging.log4j.LogManager</value>
+    <value>org.apache.logging.log4j.Marker</value>
+    <value>org.apache.logging.log4j.MarkerManager.Log4jMarker</value>
+    <value>org.apache.logging.log4j.core.Logger</value>
+    <value>org.apache.logging.log4j.core.LoggerContext</value>
+    <value>org.apache.logging.log4j.core.config.LoggerConfig</value>
+    <value>com.softwareag.util.IDataMap</value>
+  </array>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+</Values>
