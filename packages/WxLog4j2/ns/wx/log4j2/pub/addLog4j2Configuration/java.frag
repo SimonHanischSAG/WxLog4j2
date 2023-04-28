@@ -2,6 +2,10 @@
 
 <Values version="2.0">
   <value name="name">addLog4j2Configuration</value>
+  <array name="sig" type="value" depth="1">
+    <value>[i] field:0:required configFilePathname</value>
+  </array>
+  <value name="sigtype">java 3.5</value>
   <value name="encodeutf8">true</value>
   <value name="body">SURhdGFNYXAgcGlwZU1hcCA9IG5ldyBJRGF0YU1hcChwaXBlbGluZSk7DQoNClN0cmluZyBjb25m
 aWdGaWxlUGF0aG5hbWUgPSBwaXBlTWFwLmdldEFzU3RyaW5nKCJjb25maWdGaWxlUGF0aG5hbWUi
@@ -22,5 +26,5 @@ ZSArICIgaW5pdGlhbGl6ZWQiLCBMZXZlbC5JTkZPKTsNCgl9IGNhdGNoIChFeGNlcHRpb24gZSkg
 ew0KCQlsb2dJbnRlcm5hbGx5KCJJbml0aWFsaXphdGlvbiBmYWlsZWQgZm9yICIgKyBuYW1lICsi
 OiAiICsgZS5nZXRMb2NhbGl6ZWRNZXNzYWdlKCksIExldmVsLkVSUk9SKTsNCgl9DQp9IGVsc2Ug
 ew0KCWxvZ0ludGVybmFsbHkoIkNvbmZpZyBmaWxlICIgKyBjb25maWdGaWxlUGF0aG5hbWUgKyAi
-IGRvZXMgbm90IGV4aXN0IiwgTGV2ZWwuRVJST1IpOw0KfQ0KCQ==</value>
+IGRvZXMgbm90IGV4aXN0IiwgTGV2ZWwuRVJST1IpOw0KfQ0KCQ0K</value>
 </Values>
